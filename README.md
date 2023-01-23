@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @makindeflutter
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter 
+ Hi, I’m @makindeflutter
+ I’m interested in mobile app development
+-
 - 💞️ I’m looking to collaborate on  projects
 - 📫 How to reach me makindejoseph404@gmail.com
 
